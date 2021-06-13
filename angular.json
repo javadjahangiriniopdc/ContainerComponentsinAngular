@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "test-employee-app"
+  "defaultProject": "test-employee-app",
+  "cli": {
+    "analytics": "abc02f94-0e93-49c8-9f37-37a11c306007"
+  }
 }
